@@ -1,0 +1,1 @@
+API Security Fundamentals – Covers introduction to API security, OWASP API Top 10, and initial vulnerability testing using Postman.
